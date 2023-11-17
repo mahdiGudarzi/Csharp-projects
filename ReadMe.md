@@ -5,6 +5,8 @@
 #### تمرین :بازی مارپیچ| [source code](https://github.com/mahdigudarzi/Mouse-Maze-Maste) 
 
 #### تمرین : ToDo |   [source code](https://github.com/mahdigudarzi/ToDo-WinForm-) 
+#### تمرین : بازی حدس تصویر  دو | [source code](https://github.com/mahdigudarzi/guess-game--v2-) 
+
 
 #### 
 
